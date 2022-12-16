@@ -5,3 +5,14 @@
     border-bottom: 10PX SOLID #000;
 }
 
+.section .main-title{
+    margin-bottom: 60px;
+}
+
+.section.-bgBlack {
+    background-color: #000;
+}
+
+.section.-bdFrist {
+    border-color: #7C5E99;
+}
